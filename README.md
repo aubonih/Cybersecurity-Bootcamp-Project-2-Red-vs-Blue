@@ -24,7 +24,14 @@ The technical skills of this project were performed in a lab environment located
 
 # Red Team
 Before performing the attack it was essential to setup the backend logs to capture the attack data.
-This setup
+This setup included installing:
+- filebeat
+- metricbeat
+- packetbeat
+
+to the ELK server that would later be used to generate and analyze logs.
+
+
 **Red Team Instructions**
 
 1. Discover the IP address of the Linux web server.
