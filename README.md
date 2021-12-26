@@ -1,13 +1,18 @@
 # Cybersecurity-Bootcamp-Project-2-Red-vs-Blue
 
 **Project Description**
+
 In our second project I worked in a Red Team vs Blue Team scenario, where I played the role of both pentester and SOC analyst.
 
-As the red team I attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As the Blue Team, I used Kibana to review logs taken during the attack, using those logs to extract hard data and visulizations for our report.
+As the red team I attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. 
+
+As the Blue Team, I used Kibana to review logs taken during the attack, using those logs to extract hard data and visulizations for our report.
 
 Then I interpreted the log data to suggest mitigation strategies for each exploit that I successfully performed.
 
 **Project Objectives**
+
+
 This project will apply the knowledge and use of the following skills and tools:
 
 -Penetration testing with kali Linux.
