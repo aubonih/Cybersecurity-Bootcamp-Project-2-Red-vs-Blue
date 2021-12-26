@@ -15,10 +15,11 @@ Then I interpreted the log data to suggest mitigation strategies for each exploi
 
 This project will apply the knowledge and use of the following skills and tools:
 
--Penetration testing with kali Linux.
--Log and incident analysis with Kibana.
--System hardening and configuration.
-Reporting, documentation, and communication.
+- Penetration testing with kali Linux.
+- Log and incident analysis with Kibana.
+- System hardening and configuration.
+- Reporting, documentation, and communication.
+
 The technical skills of this project were performed in a lab environment located in Windows Azure Lab Services.
 
 # Red Team
